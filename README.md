@@ -63,7 +63,7 @@ const ZeppImg = fs.readFileSync('./ZeppImage');
 await client.sendMessage(m.chat, {
   thumbnail: ZeppImg,
   message: "Gotta get a grip",
-  orderTitle: "7eppeli-Corporation",
+  orderTitle: "Nuxz.ceo",
   totalAmount1000: 72502,
   totalCurrencyCode: "IDR"
 }, { quoted:m })
@@ -73,7 +73,7 @@ await client.sendMessage(m.chat, {
 ```javascript
 await client.sendMessage(m.chat, {
   pollResultMessage: {
-    name: "7eppeli-Corporation",
+    name: "Nuxz.ceo",
     options: [
       {
         optionName: "poll 1"
@@ -83,7 +83,7 @@ await client.sendMessage(m.chat, {
       }
     ],
     newsletter: {
-      newsletterName: "7eppeli | Killer Queen Information",
+      newsletterName: "Nuxz Official - Information",
       newsletterJid: "1@newsletter"
     }
   }
@@ -94,18 +94,18 @@ await client.sendMessage(m.chat, {
 ```javascript
 await client.relayMessage(m.chat, {
   productMessage {
-    title: "7eppeli.pdf",
+    title: "Nuxz.ceo",
     description: "zZZ...",
     thumbnail: { url: "./ZeppImage" },
     productId: "EXAMPLE_TOKEN",
     retailerId: "EXAMPLE_RETAILER_ID",
-    url: "https://t.me/YuukeyD7eppeli",
+    url: "https://t.me/NuxzOfficial",
     body: "Nak Tido",
     footer: "Footer",
     buttons: [
       {
         name: "cta_url",
-        buttonParamsJson: "{\"display_text\":\"7eppeli-Pdf\",\"url\":\"https://t.me/YuukeyD7eppeli\"}"
+        buttonParamsJson: "{\"display_text\":\"Nuxz\",\"url\":\"https://t.me/NuxzOfficial\"}"
       }
     ],
     priceAmount1000: 72502,
