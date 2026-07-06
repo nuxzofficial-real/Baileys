@@ -5,9 +5,9 @@
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "https://github.com/qwerty-xcv/Baileys",
+    "homepage": "https://github.com/nuxzofficial-real/Baileys",
     "repository": {
-        "url": "https://github.com/qwerty-xcv/Baileys"
+        "url": "https://github.com/nuxzofficial-real/Baileys"
     },
     "license": "MIT",
     "author": "7eppeli.pdf",
@@ -101,6 +101,6 @@
         "node": ">=20.0.0"
     }, 
     "bugs": {
-      "url": "https://qwerty-xcv/Baileys/issues"
+      "url": "https://github.com/nuxzofficial-real/Baileys/issues"
     }
 }
