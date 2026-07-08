@@ -1,5 +1,5 @@
 {
-    "name": "@nuxzofficial/Baileys",
+    "name": "nuxzofficial",
     "version": "2.1.7",
     "description": "WhatsApp Modified By @NuxzOfficialreal",
     "keywords": [
@@ -10,7 +10,7 @@
         "url": "https://github.com/nuxzofficial-real/Baileys"
     },
     "license": "MIT",
-    "author": "7eppeli.pdf",
+    "author": "NuxzOfficial",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
